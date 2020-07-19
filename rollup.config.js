@@ -8,9 +8,9 @@ const commonjs = require('@rollup/plugin-commonjs')
 // const peerDepsExternal = require('rollup-plugin-peer-deps-external')
 
 export default [{
-  input: 'src/code.js',
+  input: 'src/faq.js',
   output: {
-    file: 'dist/code.esm.js',
+    file: 'dist/faq.esm.js',
     format: 'esm',
     plugins: [
       terser({
