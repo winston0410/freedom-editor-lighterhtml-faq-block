@@ -15,7 +15,7 @@
   "repository": "github:winston0410/freedom-editor-lighterhtml-faq-block",
   "license": "MIT",
   "dependencies": {
-    "lighterhtml": "^4.0.2"
+    "lighterhtml": "^4.1.0"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^14.0.0",
